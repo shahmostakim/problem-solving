@@ -1,4 +1,4 @@
-package com.prac.dev;
+package problemSolving;
 
 public class RepeatedString {
 	
